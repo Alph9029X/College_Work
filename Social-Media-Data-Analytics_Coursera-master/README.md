@@ -10,4 +10,3 @@
 
 **Course link**:  [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
 
-**Course Certificate**: https://www.coursera.org/account/accomplishments/certificate/9HDENBCTMZ99
